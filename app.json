@@ -3,7 +3,7 @@
     "name": "react-native-minigame",
     "slug": "react-native-minigame",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "default",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
